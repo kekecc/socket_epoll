@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Mytcp.dir/main.cc.o -o Mytcp   -L/home/kk/Desktop/server/build  -L/home/kk/Desktop/server/src  -L/home/kk/Desktop/server/include  -Wl,-rpath,/home/kk/Desktop/server/build:/home/kk/Desktop/server/src:/home/kk/Desktop/server/include src/libMYTCP.a 

@@ -1,0 +1,18 @@
+Sun Oct 30 03:31:34 2022
+Information:127.0.0.1 connect!
+Sun Oct 30 03:31:49 2022
+Information:127.0.0.1:cccccccc
+Sun Oct 30 03:31:49 2022
+Information:send to 127.0.0.1:cccccccc
+Sun Oct 30 03:31:49 2022
+Information:127.0.0.1:ccccccc
+Sun Oct 30 03:31:49 2022
+Information:send to 127.0.0.1:ccccccc
+Sun Oct 30 03:31:59 2022
+Error:127.0.0.1:readData ERROR
+Sun Oct 30 03:31:59 2022
+Information:127.0.0.1:closed the connection
+Sun Oct 30 03:32:39 2022
+Information:127.0.0.1 connect!
+Sun Oct 30 03:32:44 2022
+Information:127.0.0.1:closed the connection

@@ -1,0 +1,8 @@
+/home/kk/Desktop/server/build/CMakeFiles/Mytcp.dir
+/home/kk/Desktop/server/build/CMakeFiles/edit_cache.dir
+/home/kk/Desktop/server/build/CMakeFiles/rebuild_cache.dir
+/home/kk/Desktop/server/build/include/CMakeFiles/edit_cache.dir
+/home/kk/Desktop/server/build/include/CMakeFiles/rebuild_cache.dir
+/home/kk/Desktop/server/build/src/CMakeFiles/MYTCP.dir
+/home/kk/Desktop/server/build/src/CMakeFiles/edit_cache.dir
+/home/kk/Desktop/server/build/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMYTCP.a CMakeFiles/MYTCP.dir/epoll.cpp.o CMakeFiles/MYTCP.dir/socket.cpp.o CMakeFiles/MYTCP.dir/tcpserver.cpp.o
+/usr/bin/ranlib libMYTCP.a
